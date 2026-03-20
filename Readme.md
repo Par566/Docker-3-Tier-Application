@@ -1,10 +1,4 @@
 # Three-Tier Application Deployment using Docker & Docker Compose
-[![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)]
-[![YouTube](https://img.shields.io/badge/Video%20On%20-YouTube-red.svg)]
-[![GitHub](https://img.shields.io/github/stars/AmanPathak-DevOps.svg?style=social)]
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)]
-
-![Architecture](assets/Infra.gif)
 
 This repository demonstrates the deployment of a three-tier application using Docker, focusing on individual Dockerfiles for each component. The application comprises a MySQL database, a Node.js backend, and a React.js frontend.
 
@@ -70,7 +64,7 @@ Before you begin, ensure that you have the following installed:
 
 4. **Access the Application:**
 
-   Open your favorite browser and visit [http://localhost:80](http://localhost:80). Enjoy exploring the MERN stack application!
+   Open your browser and visit [http://localhost:80](http://localhost:80). Enjoy exploring the MERN stack application!
 
 ## Data Persistence
 
